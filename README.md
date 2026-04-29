@@ -18,6 +18,12 @@ node risum.js < mod.risum > mod.json
 If there is an assets embeded inside `mod.risum`, it will be extracted
 to `./extracted_assets`.
 
+# Contact
+
+These scripts are only about 100 lines long and
+straightforward. However, if you have any questions or need further
+explanation about the formats, feel free to open a GitHub issue or
+email me at twinings1008@proton.me.
 
 # Copyright
 ```
